@@ -66,7 +66,7 @@ html:`
 <div style="width:100%;display:flex;flex-direction:column;align-items:center;margin-top:55px;">
 
 <div style="font-size:16px;font-weight:500;">Voice Letter</div>
-<div style="font-size:12px;opacity:.65;margin-bottom:6px">private recording</div>
+<div style="font-size:12px;opacity:.65;margin-bottom:6px">Private Talk</div>
 
 <div class="player" style="width:100%">
 
