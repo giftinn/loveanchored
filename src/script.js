@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Be With You</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Akon</div>
 
 <div class="player">
 <div class="topRow">
@@ -45,19 +45,19 @@ html:`
 <div style="position:absolute;top:5px;width:100%;overflow:hidden;">
 <div class="filmTrack">
 
-<img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
+<img src="src/7.jpg" class="filmPic">
 
-<img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
+<img src="src/7.jpg" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,20 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+jadi hari ini ada satu manusia yang officially semakin tua
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+finally, you’re getting older.  semoga aja sekalian makin dewasa juga ya. diumur yang sekarang, aku harap kamu bisa dapet semua hal baik yang kamu pengen. more happiness, more success, and less overthinking about unnecessary things
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+walaupun kamu lebih sering bikin kesel ya daripada bikin tenangnya, makasih banget udah jadi temen aku dan nemenin shift malem akuu
 
-But like late night radio waves that stay playing even when the world sleeps.
+tapi ya… tanpa kamu juga pasti beda rasanya. jujur aku agak gimana gitu ngetiknya, but I do appreciate you a lot
+even when you’re being super annoying karena itu yang bikin aku senengg
 
-END SIGNAL
+kamu tuh tipe orang yang… yaaa ngeselin banget, tapi bakal dicariin juga kalo ga ada :( jadi yaudah, gini aja terus yaa
+
+semoga di umur yang baru ini kamu bisa jadi lebih baik lagi. and maybe… be a little nicer to me? hehehehe
+
+
 <span class="signal">END SIGNAL</span>
 
 </div>
