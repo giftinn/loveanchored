@@ -304,7 +304,7 @@ color:#ffbf69;
 }
 </style>
 
-<div class="loveTitle">LOVE SIGNAL</div>
+<div class="loveTitle">Late Night Signal</div>
 
 <div class="meterWrap">
 <div class="meterBars">
